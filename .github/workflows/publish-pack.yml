@@ -97,7 +97,7 @@ jobs:
             --output pack-repo/pack-manifest.json
             --plan pack-repo/pack-publish-plan.json
             --minecraft 1.21.1
-            --neoforge 21.1.247
+            --neoforge 21.1.235
             --news "$PACK_NEWS"
           )
 
