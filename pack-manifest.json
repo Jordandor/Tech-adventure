@@ -3,9 +3,9 @@
   "pack": {
     "id": "tech-adventure",
     "name": "Tech Adventure",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minecraftVersion": "1.21.1",
-    "neoForgeVersion": "21.1.247",
+    "neoForgeVersion": "21.1.235",
     "serverAddress": "",
     "news": "First optimized Tech Adventure release"
   },
