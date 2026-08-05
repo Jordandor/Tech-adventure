@@ -50,8 +50,10 @@ jobs:
         run: |
           set -euo pipefail
           SOURCE_TAG="$(gh api "repos/${GITHUB_REPOSITORY}/releases?per_page=100" \
-            --jq '.[] | select(any(.assets[]?; (.name | ascii_downcase) == "stable.ver.zip")) | .tag_name' \
-            | head -n 1)"
+            --jq '[.[] | select(any(.assets[]?; (.name | ascii_downcase) == "stable.ver.zip"))] |
+            sort_by(.created_at) |
+            reverse |
+            .[0].tag_name // empty')"
           if [ -z "$SOURCE_TAG" ]; then
             echo "Stable.ver.zip was not found in published releases."
             exit 1
