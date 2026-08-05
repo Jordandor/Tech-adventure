@@ -1,10 +1,14 @@
 {
   "schemaVersion": 1,
-  "packVersion": "1.0.2",
+  "packVersion": "1.0.3",
   "manifest": "pack-manifest.json",
-  "newAssets": [],
-  "reusedPackages": 130,
+  "newAssets": [
+    "bundle-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266.zip",
+    "bundle-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b.zip",
+    "bundle-924a30fe11a109aba136d8ef9462e3eb766a03c3fc44d8c6a924fa15d2d1859f.zip"
+  ],
+  "reusedPackages": 127,
   "totalPackages": 130,
-  "totalFiles": 2122,
-  "totalBytes": 1349125751
+  "totalFiles": 2123,
+  "totalBytes": 1349305365
 }
