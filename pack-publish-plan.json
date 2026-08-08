@@ -1,14 +1,21 @@
 {
   "schemaVersion": 1,
-  "packVersion": "1.0.3",
+  "packVersion": "1.0.5",
   "manifest": "pack-manifest.json",
   "newAssets": [
-    "bundle-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266.zip",
-    "bundle-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b.zip",
-    "bundle-924a30fe11a109aba136d8ef9462e3eb766a03c3fc44d8c6a924fa15d2d1859f.zip"
+    "bundle-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766.zip",
+    "bundle-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca.zip",
+    "bundle-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687.zip",
+    "bundle-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8.zip",
+    "bundle-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070.zip",
+    "bundle-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de.zip",
+    "bundle-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400.zip",
+    "bundle-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145.zip",
+    "bundle-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2.zip",
+    "bundle-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363.zip"
   ],
-  "reusedPackages": 127,
+  "reusedPackages": 120,
   "totalPackages": 130,
-  "totalFiles": 2123,
-  "totalBytes": 1349305365
+  "totalFiles": 2127,
+  "totalBytes": 1349314391
 }

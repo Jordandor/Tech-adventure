@@ -3,11 +3,11 @@
   "pack": {
     "id": "tech-adventure",
     "name": "Tech Adventure",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "minecraftVersion": "1.21.1",
     "neoForgeVersion": "21.1.235",
     "serverAddress": "",
-    "news": "Оптимизационный патч v3"
+    "news": "Фикс бага в моде Eidolon:Repraised"
   },
   "packages": [
     {
@@ -473,11 +473,11 @@
       "size": 40229518
     },
     {
-      "id": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "id": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.3/bundle-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266.zip",
-      "sha256": "105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
-      "size": 53456
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766.zip",
+      "sha256": "04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
+      "size": 166528
     },
     {
       "id": "zip-13b576c4d1453d04a1ea7408a14ceddcd9fb9418f2752e9a41d14bd9fcb72194",
@@ -506,13 +506,6 @@
       "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-1cf79bf79b9657f8b2a18c67d7c8bd266e4ed14c10500091c49f301819a303bb.zip",
       "sha256": "1cf79bf79b9657f8b2a18c67d7c8bd266e4ed14c10500091c49f301819a303bb",
       "size": 3078399
-    },
-    {
-      "id": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
-      "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2.zip",
-      "sha256": "22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
-      "size": 630514
     },
     {
       "id": "zip-238a1bbc4b3d3c7f8743444247d42510b7b01dad5a513ece6fd3d058d8ad31f8",
@@ -564,6 +557,13 @@
       "size": 3390975
     },
     {
+      "id": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
+      "format": "zip",
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca.zip",
+      "sha256": "3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
+      "size": 1240258
+    },
+    {
       "id": "zip-3ff4d613b7d340d423f290c7aa9f1bba3c332c476cd9a9e21ca43ec158ed8b2a",
       "format": "zip",
       "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-3ff4d613b7d340d423f290c7aa9f1bba3c332c476cd9a9e21ca43ec158ed8b2a.zip",
@@ -583,6 +583,27 @@
       "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-445c7fd500ab62e52375cdb300f768ace4eb7701daba9928a221ad9146d01cc2.zip",
       "sha256": "445c7fd500ab62e52375cdb300f768ace4eb7701daba9928a221ad9146d01cc2",
       "size": 438914
+    },
+    {
+      "id": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
+      "format": "zip",
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687.zip",
+      "sha256": "45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
+      "size": 317575
+    },
+    {
+      "id": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
+      "format": "zip",
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8.zip",
+      "sha256": "4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
+      "size": 1770023
+    },
+    {
+      "id": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
+      "format": "zip",
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070.zip",
+      "sha256": "4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
+      "size": 415590
     },
     {
       "id": "zip-55b5bcf7f7222e126d21611989f5911060bcda3c8d64e358d40e7b40e31d6cf7",
@@ -613,18 +634,18 @@
       "size": 1803918
     },
     {
-      "id": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "id": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624.zip",
-      "sha256": "5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
-      "size": 2210608
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de.zip",
+      "sha256": "6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
+      "size": 23287
     },
     {
-      "id": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "id": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5.zip",
-      "sha256": "66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
-      "size": 324814
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400.zip",
+      "sha256": "610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
+      "size": 2210608
     },
     {
       "id": "zip-6d82a012e3c8eee181e41d0c36b9729b1311648ecdc596be46c46a21be75fb0d",
@@ -632,6 +653,13 @@
       "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-6d82a012e3c8eee181e41d0c36b9729b1311648ecdc596be46c46a21be75fb0d.zip",
       "sha256": "6d82a012e3c8eee181e41d0c36b9729b1311648ecdc596be46c46a21be75fb0d",
       "size": 2629108
+    },
+    {
+      "id": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
+      "format": "zip",
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145.zip",
+      "sha256": "6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
+      "size": 376527
     },
     {
       "id": "zip-71adb6346e84798fd58aa7c3db2bd4ac59731d32716dc8782638734c98477923",
@@ -655,25 +683,11 @@
       "size": 806885
     },
     {
-      "id": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
-      "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.3/bundle-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b.zip",
-      "sha256": "7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
-      "size": 1770025
-    },
-    {
       "id": "zip-80ba26359bd3fd2813b897f39e535d5af6e1657c68fb004f39cc89af7c99712e",
       "format": "zip",
       "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-80ba26359bd3fd2813b897f39e535d5af6e1657c68fb004f39cc89af7c99712e.zip",
       "sha256": "80ba26359bd3fd2813b897f39e535d5af6e1657c68fb004f39cc89af7c99712e",
       "size": 1422701
-    },
-    {
-      "id": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
-      "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa.zip",
-      "sha256": "81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
-      "size": 317185
     },
     {
       "id": "zip-824c7af449fd4e43ea4425d71227a8f33d1cd7eaa4c1a4a9be50d509b619ecb6",
@@ -788,13 +802,6 @@
       "size": 589585
     },
     {
-      "id": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
-      "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33.zip",
-      "sha256": "b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
-      "size": 466519
-    },
-    {
       "id": "zip-b9f24b67ee3e7954fe21a08386ab8844592c9781f1d92b573cc2959b38345006",
       "format": "zip",
       "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-b9f24b67ee3e7954fe21a08386ab8844592c9781f1d92b573cc2959b38345006.zip",
@@ -823,18 +830,11 @@
       "size": 1207436
     },
     {
-      "id": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "id": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000.zip",
-      "sha256": "c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
-      "size": 166531
-    },
-    {
-      "id": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
-      "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084.zip",
-      "sha256": "c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
-      "size": 23286
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2.zip",
+      "sha256": "c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
+      "size": 630527
     },
     {
       "id": "zip-cad2781c7c2b5ca1f8d490edb63b59745407657843c8d2eb2e46ed59e8496540",
@@ -849,13 +849,6 @@
       "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-cba63242c09215295cedcd8d110d394c3bba54009c5ba1868490151b74ab11bc.zip",
       "sha256": "cba63242c09215295cedcd8d110d394c3bba54009c5ba1868490151b74ab11bc",
       "size": 2003253
-    },
-    {
-      "id": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
-      "format": "zip",
-      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024.zip",
-      "sha256": "d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
-      "size": 1239128
     },
     {
       "id": "zip-d63b17ee5ae7aea172b672ad6ebcbc9a38f11bccc08c0e09f9042565c9db4222",
@@ -919,6 +912,13 @@
       "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.0/bundle-f98bf212fc780336d3cf1f9d65986ddf3f29bc0f239ee192affe661270b898b9.zip",
       "sha256": "f98bf212fc780336d3cf1f9d65986ddf3f29bc0f239ee192affe661270b898b9",
       "size": 10874
+    },
+    {
+      "id": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
+      "format": "zip",
+      "url": "https://github.com/Jordandor/Tech-adventure/releases/download/pack-v1.0.5/bundle-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363.zip",
+      "sha256": "f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
+      "size": 54149
     }
   ],
   "files": [
@@ -1017,7 +1017,7 @@
       "path": "config/alexscaves_biome_generation/candy_cavity.json",
       "sha256": "e68dac5fc506c198dedf07566e0184872be730c4d369c4bbb245f5b12673bd19",
       "size": 227,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -1094,7 +1094,7 @@
       "path": "config/alexsmobs/bald_eagle_spawns.json",
       "sha256": "f0f1a3d700fac98d9e477b1f110ca56523d1850c0640918a1e5d9f9da15bf211",
       "size": 2719,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -1122,7 +1122,7 @@
       "path": "config/alexsmobs/blue_jay_spawns.json",
       "sha256": "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
       "size": 4020,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -1227,7 +1227,7 @@
       "path": "config/alexsmobs/crow_spawns.json",
       "sha256": "c05de2f6e7bb44fcc65dfe79a84dadabad92302a284765dfefa83021f2a17cd3",
       "size": 5142,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -1241,14 +1241,14 @@
       "path": "config/alexsmobs/dropbear_spawns.json",
       "sha256": "ba40881477ddf8b05cd029b0e72e40c6926bec009b99d7dadf08a9abcb10d978",
       "size": 399,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
       "path": "config/alexsmobs/elephant_spawns.json",
       "sha256": "cac271d780a6ed65db7b22e6944b6d456805d72b309865d6293ad6aa4f60c3e2",
       "size": 1163,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -1269,14 +1269,14 @@
       "path": "config/alexsmobs/enderiophage_spawns.json",
       "sha256": "846748f4f352dead7fae39221d653713b7cbd775eaf10f80e0dea86f4e9ccb9a",
       "size": 603,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
       "path": "config/alexsmobs/farseer.json",
       "sha256": "d409ed44fc328b64361ed982c8c5612df84c54d08b8a36804f1ec492c1b24d93",
       "size": 262,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -1304,14 +1304,14 @@
       "path": "config/alexsmobs/frilled_shark_spawns.json",
       "sha256": "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
       "size": 146,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
       "path": "config/alexsmobs/froststalker_spawns.json",
       "sha256": "2cc43cdc9df3b20cc2eeb75a3c11736558f544571640607d08dec5c0a939c02d",
       "size": 934,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -1388,14 +1388,14 @@
       "path": "config/alexsmobs/komodo_dragon_spawns.json",
       "sha256": "15ec4df7835e1b537c5c17e868fad1989afa121f40b025b4532470284e42838b",
       "size": 771,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
       "path": "config/alexsmobs/laviathan_spawns.json",
       "sha256": "07d0215377f12f1299ec46b6277426c3cf957aa1d310c97fa943cdf5ace8d260",
       "size": 142,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -1409,7 +1409,7 @@
       "path": "config/alexsmobs/lobster_spawns.json",
       "sha256": "bb0c918e8dbd4d003417a1bcabb38b8433d1f9be95fe6f8feef95d30616b49a7",
       "size": 398,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -1500,7 +1500,7 @@
       "path": "config/alexsmobs/rain_frog_spawns.json",
       "sha256": "486bdc6b7998cefb468dd4334d5cd862f799c5bb125dab7bfdf9ca799c546b05",
       "size": 1240,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -1577,7 +1577,7 @@
       "path": "config/alexsmobs/snow_leopard_spawns.json",
       "sha256": "062dfadb1d57364c8a45170f5cd6c6a89797ff48f52f51865b5bb06533c1ad63",
       "size": 1804,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -1626,7 +1626,7 @@
       "path": "config/alexsmobs/tarantula_hawk_spawns.json",
       "sha256": "486bdc6b7998cefb468dd4334d5cd862f799c5bb125dab7bfdf9ca799c546b05",
       "size": 1240,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -1640,7 +1640,7 @@
       "path": "config/alexsmobs/terrapin_spawns.json",
       "sha256": "2c6fb5fda7290ea523340da5c43379f832deb3b05a4787fcc2a1875c6c372b41",
       "size": 621,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -1654,35 +1654,35 @@
       "path": "config/alexsmobs/toucan_spawns.json",
       "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
       "size": 1166,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
       "path": "config/alexsmobs/triops_spawns.json",
       "sha256": "486bdc6b7998cefb468dd4334d5cd862f799c5bb125dab7bfdf9ca799c546b05",
       "size": 1240,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
       "path": "config/alexsmobs/tusklin_spawns.json",
       "sha256": "f77be9f2dd0db0b9a0861b122ba11bee27434cddf7b2f25c2235685051630e45",
       "size": 874,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
       "path": "config/alexsmobs/underminer.json",
       "sha256": "2d0c8e8200bbb68914c6946da08086cab49daaaeec7ecc9b8c8eba47d2c3c4a1",
       "size": 2081,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
       "path": "config/alexsmobs/void_worm_spawns.json",
       "sha256": "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273",
       "size": 18,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -1696,14 +1696,14 @@
       "path": "config/alexsmobs/warped_toad_spawns.json",
       "sha256": "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8",
       "size": 661,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
       "path": "config/alloyed.toml",
       "sha256": "b3575dd01154bb9c146abd84facbdac202fb81b501f2ae24da4b9d347ccdd484",
       "size": 120,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -1721,6 +1721,13 @@
       "policy": "managed"
     },
     {
+      "path": "config/andrey_modpack_fixes-performance.properties",
+      "sha256": "f29fb8f44f469c529715cc031883ad176e6900684542c052d1995f6048dcf969",
+      "size": 1079,
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
+      "policy": "managed"
+    },
+    {
       "path": "config/animalweights.json",
       "sha256": "ed986333df020e69fab26fbdff96850120cfd6fa66d2d1e56cfd470fc807fc74",
       "size": 6733,
@@ -1731,7 +1738,7 @@
       "path": "config/apple_seed_foods/alexscaves_alex_meal.json",
       "sha256": "6a79dc5af3d2b81a82bfe1820292981324d10663965d3053e58dcd5a76f3a51e",
       "size": 246,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -1808,7 +1815,7 @@
       "path": "config/apple_seed_foods/alexscaves_chiseled_candy_cane_block.json",
       "sha256": "079d9b696adbaf7b868d4c780e22d10b2d23ea9c9a0e89a34589437447ab716f",
       "size": 271,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -1864,7 +1871,7 @@
       "path": "config/apple_seed_foods/alexscaves_darkened_apple.json",
       "sha256": "d6c59f644f652662b539d51ad1d8f2b7c892c6f6dd1faf8a9b6987f7a0b3bdfa",
       "size": 180,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -1892,14 +1899,14 @@
       "path": "config/apple_seed_foods/alexscaves_frosted_gingerbread_brick_slab.json",
       "sha256": "f7181ac642ed7e966d08452b89bc92b0b9bdf7987598dc5178910332ce248da3",
       "size": 198,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/alexscaves_frosted_gingerbread_brick_stairs.json",
       "sha256": "006bc5f3c99c1f7c45b626c51d3c4d22a1339d41208fc19ddb2a6c098d98cbb3",
       "size": 200,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -1948,7 +1955,7 @@
       "path": "config/apple_seed_foods/alexscaves_frostmint.json",
       "sha256": "bdeee5e95f62021e951e7b3c8a12606a7e84203d7b0b8b6d8825b3321b2024d4",
       "size": 255,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -1997,7 +2004,7 @@
       "path": "config/apple_seed_foods/alexscaves_gingerbread_block.json",
       "sha256": "13aef306b0790b9349bb7b22ea8169cea6f3cbb346d777d17e9d7afd7a2202cd",
       "size": 263,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -2032,7 +2039,7 @@
       "path": "config/apple_seed_foods/alexscaves_gingerbread_door.json",
       "sha256": "2e799da4f3795dcddd9cec27c4f6282f7df756b8d58104e6f78a45eeb99560c5",
       "size": 262,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -2088,7 +2095,7 @@
       "path": "config/apple_seed_foods/alexscaves_gummy_ring_yellow.json",
       "sha256": "85460038bd74656b216c5093fd7e722c3f09841bb90918d0588e7c88d47bbd91",
       "size": 263,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -2109,7 +2116,7 @@
       "path": "config/apple_seed_foods/alexscaves_licoroot_sprout.json",
       "sha256": "506ad14a1083c51109fa8e480d48118c9e8a4cdb8da802890355b99e9437d6ee",
       "size": 181,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -2179,14 +2186,14 @@
       "path": "config/apple_seed_foods/alexscaves_rock_candy_light_blue.json",
       "sha256": "e2b5386ebced8781fc87cf42eaa2461c1f3d1e1ab12b8cc999e98b1fdec07a11",
       "size": 211,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/alexscaves_rock_candy_light_gray.json",
       "sha256": "b16d2dc5cee44f31d44b1f9c5cb8addb681420e33befb94f46b6e91bc36a5af9",
       "size": 211,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -2207,7 +2214,7 @@
       "path": "config/apple_seed_foods/alexscaves_rock_candy_orange.json",
       "sha256": "62820cf0f048fae68a182555e5e42e75b0804d3c92fe08a32f87e59096278849",
       "size": 209,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -2221,7 +2228,7 @@
       "path": "config/apple_seed_foods/alexscaves_rock_candy_purple.json",
       "sha256": "2c04a87e2b3a0855dad7139bc42b14972601e307331d9feccec283c1bc433dbe",
       "size": 233,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -2347,7 +2354,7 @@
       "path": "config/apple_seed_foods/alexscaves_wafer_cookie_stairs.json",
       "sha256": "669e84994d81ab07da30aa08d71c9fd69eeb472ad38bcd8a7d853695dc256f81",
       "size": 254,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -2403,7 +2410,7 @@
       "path": "config/apple_seed_foods/alexsmobs_kangaroo_burger.json",
       "sha256": "ca3bff2142e94b0dfb695c47f250483a59d8f4fef7b82c00aafbec7f59334deb",
       "size": 180,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -2417,7 +2424,7 @@
       "path": "config/apple_seed_foods/alexsmobs_sopa_de_macaco.json",
       "sha256": "a3e5471968c7f3c7f9807f71a16ea531ae2953c378e1578ec8c27b522bdd8eda",
       "size": 229,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -2452,7 +2459,7 @@
       "path": "config/apple_seed_foods/bakery_vegetable_sandwich.json",
       "sha256": "da84b8df1b7d2ee25f383ac590206d29476b5e25cadbf24bb53a61850dc6ecbf",
       "size": 186,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -2501,7 +2508,7 @@
       "path": "config/apple_seed_foods/betterend_shadow_berry_jelly.json",
       "sha256": "67008d3f1fe8e27d7163c22aaa9575c42e162bf2e7529c4b3c1fdec9db230f56",
       "size": 183,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -2627,7 +2634,7 @@
       "path": "config/apple_seed_foods/corn_delight_cornbread_stuffing.json",
       "sha256": "d543458198c276bf85e81aec2081a5dd1fc00838e6ce66c758083d2477928960",
       "size": 256,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -2823,7 +2830,7 @@
       "path": "config/apple_seed_foods/createfood_apple_cream_sweet_roll.json",
       "sha256": "fe6402dcde8e192e9b5ed12e8272397a7dfd3ee9ef5eb1ea0360daf2c8f0d748",
       "size": 257,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -2858,14 +2865,14 @@
       "path": "config/apple_seed_foods/createfood_apple_ice_cream_sandwich.json",
       "sha256": "37d50f6b84c19b6e58c46a65077a3e8ae2567ef1445ceb58be1c04b90e477d28",
       "size": 212,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_apple_ice_cream_stick.json",
       "sha256": "c50619cc7175f516558cd3ad60b22b284bfc47e6035561efdcd3a71843225236",
       "size": 213,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -2907,7 +2914,7 @@
       "path": "config/apple_seed_foods/createfood_apple_slice.json",
       "sha256": "72ab630a386418d0bfa5b67046addc0f04337c8f3ed1f5f2ee08604e7c11d0f9",
       "size": 177,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -2963,7 +2970,7 @@
       "path": "config/apple_seed_foods/createfood_baked_potato_butter_fish.json",
       "sha256": "6bda9bb65e538c141ec2eb7dc63144086500c571a3dbaf4b9b6b72b7ed56dc7e",
       "size": 215,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -2991,7 +2998,7 @@
       "path": "config/apple_seed_foods/createfood_baked_potato_butter.json",
       "sha256": "de733fe66b27eedfa3e2f1901857d12ee7b43ddd81d07aec1f8c865e010a2bab",
       "size": 210,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -3026,7 +3033,7 @@
       "path": "config/apple_seed_foods/createfood_beef_bun_bacon.json",
       "sha256": "68a31da600f85b992c3ab659d0ac93421f10d6ea45682f9c387c8510be5f5f58",
       "size": 204,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -3131,7 +3138,7 @@
       "path": "config/apple_seed_foods/createfood_beef_bun_lettuce.json",
       "sha256": "f951930b30031c80b2ef7ee04d1298366a796827bbadcc797bb523ede7f46bc5",
       "size": 206,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -3243,7 +3250,7 @@
       "path": "config/apple_seed_foods/createfood_beef_taco_lettuce_taco_sauce.json",
       "sha256": "e32d89e9bbfbd4cf71271c75493cc739f172505e0986d418dc395b354dcd41f7",
       "size": 265,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -3285,7 +3292,7 @@
       "path": "config/apple_seed_foods/createfood_berry_cream_cake_slice_sweet_berry.json",
       "sha256": "4e29867b0bd5ea488536312f8893128c9db82a25bcf510374b180cc652b923f3",
       "size": 245,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -3341,7 +3348,7 @@
       "path": "config/apple_seed_foods/createfood_berry_cream_cupcake.json",
       "sha256": "64f2f5164ba51a33669b548b9c80a76d59fba7b7fc708518902f41c096e8ea96",
       "size": 254,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -3404,7 +3411,7 @@
       "path": "config/apple_seed_foods/createfood_berry_cream_white_chocolate.json",
       "sha256": "effea5a3b6b56200408e48fb7c272e5bcea2d63d72fb743af572bfe87ce6a6d2",
       "size": 196,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -3418,7 +3425,7 @@
       "path": "config/apple_seed_foods/createfood_berry_ice_cream_bowl.json",
       "sha256": "f0588353ea89dac276a937a953aad052e87b013bd22535727e692f7b7e4b1e35",
       "size": 212,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -3474,14 +3481,14 @@
       "path": "config/apple_seed_foods/createfood_berry_pie_slice.json",
       "sha256": "b41bada8a96b120ffd08dcdab7b20811173626fbc083d63f22a7e711413a759e",
       "size": 183,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_berry_popsicle.json",
       "sha256": "19369def7da2f463708f00814050fade1872bed46e447705f539eeee7eb9df03",
       "size": 227,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -3516,7 +3523,7 @@
       "path": "config/apple_seed_foods/createfood_boiled_egg_peeled_salt.json",
       "sha256": "f3b0633cc55283a141fdbb374c16abe8af7f65158741f273e915042fe69b49c7",
       "size": 214,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -3572,7 +3579,7 @@
       "path": "config/apple_seed_foods/createfood_bread_slice_bacon_lettuce_tomato.json",
       "sha256": "e8f80f27848576697a1214216b9d570821eb33beec387572232daf748e853f4c",
       "size": 222,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -3607,7 +3614,7 @@
       "path": "config/apple_seed_foods/createfood_bread_slice_berry_jam.json",
       "sha256": "ecb4e77884b2526c1d7f2046b7dd94e04e8ebaaba0670460c8b3923e6ec39a76",
       "size": 189,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -3621,14 +3628,14 @@
       "path": "config/apple_seed_foods/createfood_bread_slice_chorus_fruit_jam.json",
       "sha256": "6d15c513799e65ac3d1dd4315f597209296c41992b2b7a6aa70d9b83def3b0ed",
       "size": 196,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_bread_slice_glow_berry_jam.json",
       "sha256": "5d3b45296a74a8c275ab569d82b96bc26be287a4c708186ecdf02823c21a6c08",
       "size": 260,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -3740,7 +3747,7 @@
       "path": "config/apple_seed_foods/createfood_butterscotch_berries.json",
       "sha256": "ce22ed76315030016b33ac33b04aceeb33d2650a6a3a66c996c1ddcf9ae90448",
       "size": 207,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -3817,7 +3824,7 @@
       "path": "config/apple_seed_foods/createfood_butterscotch_dark_chocolate.json",
       "sha256": "8d0f6c1203e56576c2823bbc9ed0141489381bdcc59d2ed4469028e8cf2f7c70",
       "size": 213,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -3992,7 +3999,7 @@
       "path": "config/apple_seed_foods/createfood_caramel_marshmallow_stick.json",
       "sha256": "257c3de87d5fe78130bdc5d412c0746d9439cc3cc35674e8d8248629d13bd672",
       "size": 217,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -4013,21 +4020,21 @@
       "path": "config/apple_seed_foods/createfood_caramel_sweet_roll.json",
       "sha256": "31df9b10d59a7ff5524d3d903f16bbe01c4adbed95f53ed84f8cb8cf4ee113d8",
       "size": 208,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_caramel_toast.json",
       "sha256": "d31558b6e7e00809b38278a9b9a8df864f95d7b969c65b6ab67039272c843f79",
       "size": 201,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_caramel_white_chocolate.json",
       "sha256": "c36e569b987604bf56848387a29938f44560e9feebb5b899261ead8e117e6abc",
       "size": 192,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -4118,7 +4125,7 @@
       "path": "config/apple_seed_foods/createfood_cheeseburger_lettuce_tomato.json",
       "sha256": "e445c292727405fbfda6688fa419f53ab30def6a68b28c984cf68dca643facad",
       "size": 217,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -4167,14 +4174,14 @@
       "path": "config/apple_seed_foods/createfood_cheeseburger_tomato.json",
       "sha256": "a00eab1826ffec6a9b23f9307e9e7c2b8da337d2f5a83dfab11a9605a6c6cabe",
       "size": 209,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_cheeseburger.json",
       "sha256": "bb40e960e7e28fb60005122f7358d496ab986539fca82b94eb2887b90970d7a8",
       "size": 202,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -4202,7 +4209,7 @@
       "path": "config/apple_seed_foods/createfood_chicken_bun_cheese_bacon_lettuce.json",
       "sha256": "7aba1ff732ee5e78455919bed35e42c2a0eba51231bb8b6af69b43291185167c",
       "size": 222,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -4251,14 +4258,14 @@
       "path": "config/apple_seed_foods/createfood_chicken_bun_lettuce.json",
       "sha256": "4b4964573e2043bdb12a5328c1d4b3d9ed5a050f4255255956f6d6e6630eb967",
       "size": 209,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_chicken_bun_tomato.json",
       "sha256": "a147a61269d662960171d521fe0de01550c48d5c74a9367f213014cdb2df154c",
       "size": 208,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -4307,7 +4314,7 @@
       "path": "config/apple_seed_foods/createfood_chicken_burger.json",
       "sha256": "3dcaa4ad7f4f10f1777aaf6e8db14b63ca24af416e7cf38299526d612a988c72",
       "size": 202,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -4363,7 +4370,7 @@
       "path": "config/apple_seed_foods/createfood_chicken_cheeseburger.json",
       "sha256": "d030d197ccbf29d1c8b1e923d178805b74dce4bfac1eff2fdbcac6bcda581839",
       "size": 208,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -4440,7 +4447,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_chip_chocolate_milkshake_bottle.json",
       "sha256": "5c4440f53ee6d32d7761eead7fe453b0693641a39de59257e44e22f66d759dc1",
       "size": 275,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -4454,7 +4461,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_chip_milkshake_bottle.json",
       "sha256": "0136739f4342775952942217000e08e618ec679984106d0278fff9908ff3eadd",
       "size": 244,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -4468,7 +4475,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_chip_muffin.json",
       "sha256": "fab69d70700ef7893dc23ffe468c175f7fba7243ba6ec2e8f5bf6f2119a5f8f2",
       "size": 281,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -4482,7 +4489,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_cream_cake_slice_butterscotch.json",
       "sha256": "3c571836aea0aab44068dc9363fdc5742f78966ccf2a727c7e0775ed1f9f5b53",
       "size": 207,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -4538,7 +4545,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_cream_chocolate_cupcake.json",
       "sha256": "fe4bf98f05572a4d96fdc5c0f87d2138c6e064e645a5f8f83868301496ce1fa2",
       "size": 246,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -4566,7 +4573,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_cream_donut.json",
       "sha256": "247dd545614d6c5329ed9446281d282a8262f7d98c08812a351e173fa30c25dd",
       "size": 235,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -4580,7 +4587,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_cream_mini_waffle.json",
       "sha256": "fa2e0b76ab8fd38cc1fdef7bd8db3e3abc6ffcfc3e2d02953d74f296cc4d1b68",
       "size": 240,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -4622,7 +4629,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_donut_hole.json",
       "sha256": "6ec6983d40f1fdf1f900b1c22327463847132436f992ead332de331134fd62c0",
       "size": 208,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -4643,7 +4650,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_graham_cracker_apple_ice_cream.json",
       "sha256": "d96fe788539c1d44a209899fa82f8c0d42225499201c2d9ac0f35f9ed049af7b",
       "size": 228,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -4762,7 +4769,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_milk_bottle.json",
       "sha256": "073cce7ced38d5c8561dedd11f5b77c399615f4d5b88111c71e40089d4c2998e",
       "size": 191,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -4776,7 +4783,7 @@
       "path": "config/apple_seed_foods/createfood_chocolate_pastry_base.json",
       "sha256": "43ee23d4b60f736cb88dbd1df47c8c5dda454dd538dade5e990ee0b0758dcd1e",
       "size": 209,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -4909,7 +4916,7 @@
       "path": "config/apple_seed_foods/createfood_chorus_fruit_cream_dark_chocolate.json",
       "sha256": "51bd268ac7eb8a5c2fdc140a1d3b58cce7f111551ad19e4057ca1977e3a4b345",
       "size": 243,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -4923,14 +4930,14 @@
       "path": "config/apple_seed_foods/createfood_chorus_fruit_cream_frosting_bottle.json",
       "sha256": "2e21a76622eeb7d996e79043a86a36446ca3294ea9ce3b9b8f9c3819deb61347",
       "size": 246,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_chorus_fruit_cream_mini_waffle_chorus_fruit.json",
       "sha256": "9d1c23cb2f62432364dc0b67a37701799136ccf9f52efe2966b265a0c96d0cfd",
       "size": 278,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -4944,7 +4951,7 @@
       "path": "config/apple_seed_foods/createfood_chorus_fruit_cream_pastry.json",
       "sha256": "24cddff9730848511177402bd6cb879fb05ba8e935e61e8884d3451d049700d6",
       "size": 261,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -4993,14 +5000,14 @@
       "path": "config/apple_seed_foods/createfood_chorus_fruit_ice_cream_sandwich.json",
       "sha256": "116413d44b8dab14bbc5ea8fca4fccb4599bb4af5f3cd8d840ef3aef3c1c3f72",
       "size": 243,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_chorus_fruit_ice_cream_stick.json",
       "sha256": "dc9a6923b3ba20ba7306dfde7c3151bfea78cfab06a2c51a27f7c93e114392e3",
       "size": 220,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -5028,7 +5035,7 @@
       "path": "config/apple_seed_foods/createfood_chorus_fruit_milkshake_bottle.json",
       "sha256": "f5d1cbd5ed221191883911d68a8eccbd88f0eb65da1a67fef74a8c021903a37c",
       "size": 199,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -5098,7 +5105,7 @@
       "path": "config/apple_seed_foods/createfood_cream_cake_slice_glow_berry.json",
       "sha256": "5e3fade528337fada690ff0ec90a3a9bc500e8c9b0e8431c084b0fc2f03dde64",
       "size": 239,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -5112,7 +5119,7 @@
       "path": "config/apple_seed_foods/createfood_cream_chocolate_cake_slice.json",
       "sha256": "8b5ac416417dead4f5a555788e6ad719ba1e49bce432e0d7b03a019e44350a8a",
       "size": 215,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -5168,7 +5175,7 @@
       "path": "config/apple_seed_foods/createfood_cream_chocolate.json",
       "sha256": "d3291542bee0af2411eff1384020ddb3bcbe3a2ac4887ea49cffd6c6ff3a19da",
       "size": 224,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -5203,7 +5210,7 @@
       "path": "config/apple_seed_foods/createfood_cream_mini_waffle_chorus_fruit.json",
       "sha256": "21b9a88f115104e2d1c42e815ae08abab3d8e870ba78ac00bb92c5fefc721247",
       "size": 263,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -5238,7 +5245,7 @@
       "path": "config/apple_seed_foods/createfood_cream_pie_chocolate_graham_cracker_slice.json",
       "sha256": "f1422b9fc7b84c1e401c5aa36088764e416a6f81fb033836f76d3d244139998d",
       "size": 230,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -5252,7 +5259,7 @@
       "path": "config/apple_seed_foods/createfood_cream_sweet_roll_chorus_fruit.json",
       "sha256": "39fbbb13690d7651e42ad9155a965c037bb485281995481b3f4105fde78c4c50",
       "size": 263,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -5273,7 +5280,7 @@
       "path": "config/apple_seed_foods/createfood_cream_white_chocolate.json",
       "sha256": "00de0b4bbf5cd13e4f824ab3874dfe6578ec3384bf606128270efa9089ef44d7",
       "size": 211,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -5287,7 +5294,7 @@
       "path": "config/apple_seed_foods/createfood_cupcake_base.json",
       "sha256": "0a41d5a007891c74577b6535210a9e76cbba6da93c436ca64f09e3f16102c527",
       "size": 201,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -5322,7 +5329,7 @@
       "path": "config/apple_seed_foods/createfood_dark_chocolate_apple.json",
       "sha256": "cff16f8739b7680c559eeccb34cd0d5b2012894d61036b264b4389e5ea5686a1",
       "size": 206,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -5357,14 +5364,14 @@
       "path": "config/apple_seed_foods/createfood_dark_chocolate_chip_cookie.json",
       "sha256": "7dc61a6ce97e4954f597c6ffea00b97c6f7a7e05839635723c48ec3dbd31697c",
       "size": 238,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_dark_chocolate_chip_ice_cream_cone.json",
       "sha256": "44d8f72eccb201c8a7c6da01352cda8762acaec41cf95f65a9ef16a7f0592928",
       "size": 268,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -5448,7 +5455,7 @@
       "path": "config/apple_seed_foods/createfood_donut_hole.json",
       "sha256": "5853497013ab196bc44bfb8edaec99ae0a4dee880fcf33f039eb85f964671679",
       "size": 200,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -5525,7 +5532,7 @@
       "path": "config/apple_seed_foods/createfood_fish_burrito_rice.json",
       "sha256": "cbd98591bfed6d43cc06292e68ef596eade9e42182ff9b885ec3ead9d5191697",
       "size": 231,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -5672,14 +5679,14 @@
       "path": "config/apple_seed_foods/createfood_glow_berry_cream_cake_slice_sweet_berry.json",
       "sha256": "409b6eb44b39cd4a6ff59307180c920c5b4d28ed3c5f1b6a40a58b8d0b702533",
       "size": 274,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_glow_berry_cream_cake_slice.json",
       "sha256": "51821e0bd7142fcaf8d2eb5dee156ae29e07e26a1b798284fca5be5b3c4f054a",
       "size": 262,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -5700,7 +5707,7 @@
       "path": "config/apple_seed_foods/createfood_glow_berry_cream_chocolate_pastry.json",
       "sha256": "c4cf06455ee96813e900d338324068b258316e4a456388e801ab7e35a8eee781",
       "size": 221,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -5749,7 +5756,7 @@
       "path": "config/apple_seed_foods/createfood_glow_berry_cream_frosting_bottle.json",
       "sha256": "b606d0d31bff723b1d9a890a9332c5f8ef0b2d3b6e6f268ef170ef2eadf4af5a",
       "size": 246,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -5763,7 +5770,7 @@
       "path": "config/apple_seed_foods/createfood_glow_berry_cream_mini_waffle.json",
       "sha256": "073938424535ce0ed5cc60698f15dcdfc8d51a52ab4f489703b5ec2df883d8a6",
       "size": 263,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -5777,7 +5784,7 @@
       "path": "config/apple_seed_foods/createfood_glow_berry_cream_sweet_roll_glow_berry.json",
       "sha256": "fb852f88e7a5e3275776e450af7ea763d9b08369e9a10b5ba5a2b2e8452781cd",
       "size": 274,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -5875,7 +5882,7 @@
       "path": "config/apple_seed_foods/createfood_graham_cracker_chocolate.json",
       "sha256": "326d7acc5025ae100a873854d05a34803387cb48041c72d7018d8d9c4d65b4df",
       "size": 214,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -5896,7 +5903,7 @@
       "path": "config/apple_seed_foods/createfood_graham_cracker.json",
       "sha256": "324457013eda179f5a3b393c07ab3125a861fafdbabeb3d4d83cba421cb35d77",
       "size": 204,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -5952,7 +5959,7 @@
       "path": "config/apple_seed_foods/createfood_hamburger_crimson_fungus.json",
       "sha256": "ac8e3adbdb99fd338c223e45c7017c94570a96fe422a77ff3929bf2f2659e2cb",
       "size": 238,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -5966,7 +5973,7 @@
       "path": "config/apple_seed_foods/createfood_hamburger_lettuce.json",
       "sha256": "d901b64cd1e9039e9fb55cf4029c8a90c287847e87730b3e8904467f5a1a271c",
       "size": 207,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -5994,7 +6001,7 @@
       "path": "config/apple_seed_foods/createfood_hamburger_onion.json",
       "sha256": "a321450f15337564ac42f7ad8d1fdadc8ca1731ff5c9976817a0062c8d8d71b8",
       "size": 205,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -6029,7 +6036,7 @@
       "path": "config/apple_seed_foods/createfood_hash_brown_plate.json",
       "sha256": "2135cf6a3bc91b313fa558decd30650c710e7ecc2623ae056a813dcb517fbc7e",
       "size": 232,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -6050,14 +6057,14 @@
       "path": "config/apple_seed_foods/createfood_hollow_chocolate.json",
       "sha256": "6c7343c9ac02ca18088d70e1ed7eb3892b75cf51baf1937d5c01373e9f8a8734",
       "size": 225,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_hollow_dark_chocolate.json",
       "sha256": "a199873516eb1e5bd6858be68a219bf6ee5086c3b12fa3d5104821457f20ee51",
       "size": 207,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -6106,7 +6113,7 @@
       "path": "config/apple_seed_foods/createfood_honeyed_chocolate_donut.json",
       "sha256": "2d2a182e45737d7a12736014443bf412458a66f6bca3a2d92223b8999cb73b53",
       "size": 211,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -6141,7 +6148,7 @@
       "path": "config/apple_seed_foods/createfood_honeyed_muffin.json",
       "sha256": "f73e658fe2fcea817d65001e37fa3c93331c2ddd5b1e86135a746b10159a5d91",
       "size": 252,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -6176,7 +6183,7 @@
       "path": "config/apple_seed_foods/createfood_hot_dark_chocolate_bottle.json",
       "sha256": "b35357fcfb4dbd19e44bddb4dd7a3ff692e6d383f50210fe75cdb41138cffb12",
       "size": 195,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -6190,7 +6197,7 @@
       "path": "config/apple_seed_foods/createfood_ice_cream_bowl.json",
       "sha256": "5d947605c5df8995bd127e7dab1f8396aaccec74080750b0ac903c2ff07960f5",
       "size": 206,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -6204,7 +6211,7 @@
       "path": "config/apple_seed_foods/createfood_ice_cream_sandwich_neapolitan.json",
       "sha256": "c3966eef5a39ea555120fac187d4bbcbc0994d8d18fea596eff90f57a49ce217",
       "size": 241,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -6281,7 +6288,7 @@
       "path": "config/apple_seed_foods/createfood_kelp_roll_slice_beetroot.json",
       "sha256": "9e04562d9b1581da9afcd792d98a7e2324b56a09cbd7d1c3a467e267d0ae3a2a",
       "size": 242,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -6323,7 +6330,7 @@
       "path": "config/apple_seed_foods/createfood_kelp_roll_slice_red_mushroom.json",
       "sha256": "b907f870adf97234434131f6479bab359ce47961aac85ff87c4abfd247710b87",
       "size": 246,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -6372,7 +6379,7 @@
       "path": "config/apple_seed_foods/createfood_leather_soup_bowl.json",
       "sha256": "64836b6d000907c4ca851002ebf899c52cedb921136973bad8027247923f0592",
       "size": 209,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -6442,7 +6449,7 @@
       "path": "config/apple_seed_foods/createfood_macaroni.json",
       "sha256": "c546eec1302c89faee82a9670d96ed326e9dd334ab23ee30fff3cf6fbae7b820",
       "size": 175,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -6505,7 +6512,7 @@
       "path": "config/apple_seed_foods/createfood_marshmallow_dark_chocolate.json",
       "sha256": "c3736f8282f1928396e09b9e99ad95a45e240d5d384cd0b5f0bc3e59e42b9e53",
       "size": 254,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -6526,7 +6533,7 @@
       "path": "config/apple_seed_foods/createfood_marshmallow_white_chocolate_fudge.json",
       "sha256": "8ec7d5a4fd30bea1be0b31de2f6382c1a59fc543eef1d28ef779f394a280e57f",
       "size": 221,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -6617,7 +6624,7 @@
       "path": "config/apple_seed_foods/createfood_melon_cream_chocolate_sweet_roll.json",
       "sha256": "104ce6c45e3b87a3502ccd1d01d5d0b508a13edb1a4f437254f7749fb7197a24",
       "size": 244,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -6631,14 +6638,14 @@
       "path": "config/apple_seed_foods/createfood_melon_cream_cupcake.json",
       "sha256": "1220098a4ba1fd8aa3e550d6c9851666b5145b72c8b992e81b01f51f1ed51b55",
       "size": 208,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_melon_cream_dark_chocolate.json",
       "sha256": "8e2cf4eb460b8d18c9c8e16521db23b44d61496f1fba2b0db789878d1e323c99",
       "size": 234,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -6673,7 +6680,7 @@
       "path": "config/apple_seed_foods/createfood_melon_cream_sweet_roll.json",
       "sha256": "3722fe608e1209416868dfbb92881fa8c526d06c4d8306cd4aa7230545f473ed",
       "size": 236,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -6687,7 +6694,7 @@
       "path": "config/apple_seed_foods/createfood_melon_custard_bottle.json",
       "sha256": "67652c473724fca9b3cc7a125ba90b0d6e64d2e993b104a35b187dbcf9d3b5b3",
       "size": 232,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -6729,7 +6736,7 @@
       "path": "config/apple_seed_foods/createfood_melon_jam_sandwich.json",
       "sha256": "861c9f587ecd83d89a2edf8f36dd38061b25c6120dabace41c87e2feb0234777",
       "size": 226,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -6757,7 +6764,7 @@
       "path": "config/apple_seed_foods/createfood_mini_chocolate_graham_cracker_pie_crust.json",
       "sha256": "0649b0e1d02b8daaf0d6288e459afeb4777ba325230cb761ecfaf87b2eec7bf6",
       "size": 285,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -6932,7 +6939,7 @@
       "path": "config/apple_seed_foods/createfood_mutton_sandwich.json",
       "sha256": "e39b65867785bb30e2b09a4d05070db456091ed4f6d8e7e0f5a0adebdac26cd7",
       "size": 205,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -6953,7 +6960,7 @@
       "path": "config/apple_seed_foods/createfood_mutton_taco_lettuce.json",
       "sha256": "d94ab7dc57bb7b8b5249a731d381c4679fee2537a64549c77bfa9895ce870def",
       "size": 209,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -6974,7 +6981,7 @@
       "path": "config/apple_seed_foods/createfood_nacho_bowl_beef_taco_sauce.json",
       "sha256": "503f72edb3f1f153395bbe1f5a897458ad901e03c90b36ae8058eb439980eef1",
       "size": 265,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -7191,14 +7198,14 @@
       "path": "config/apple_seed_foods/createfood_pastry_base.json",
       "sha256": "3e1f051c5772c74db2be2cea5f23fc4c302f96e93b033196ce3fe19f2959fa02",
       "size": 201,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_pink_gelatin_dessert_slice.json",
       "sha256": "a75140f96f255243073f727fa61f9590e602626269c7818c523cfc5ed05f1f5b",
       "size": 198,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -7226,14 +7233,14 @@
       "path": "config/apple_seed_foods/createfood_pork_burrito_rice.json",
       "sha256": "ccc3f2cb2efdc771f87fb1008ecd60fdd3d3faf0a545ba2753d43a40ad932310",
       "size": 231,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_pork_meatball_sandwich.json",
       "sha256": "98f251f73ac066bec605459974eca9719a31d9b4e8c07d8575e2b722e75babc0",
       "size": 212,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -7275,7 +7282,7 @@
       "path": "config/apple_seed_foods/createfood_pork_taco_lettuce_taco_sauce.json",
       "sha256": "211b7757280024ae1e7756c4d6f770fdead789bc94e83780de45335850afa549",
       "size": 265,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -7380,7 +7387,7 @@
       "path": "config/apple_seed_foods/createfood_rabbit_calzone.json",
       "sha256": "7fa8e8cbcc96020b0e6105dc1539e8448401e0442016e092c8af90694620fc69",
       "size": 204,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -7394,14 +7401,14 @@
       "path": "config/apple_seed_foods/createfood_rabbit_meatball_sandwich.json",
       "sha256": "44bf1d9bdaf78ac3b0ee4b43194839a367c8bb533af40efa14585a7068df8ef7",
       "size": 213,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_rabbit_meatball_stick_1.json",
       "sha256": "c59e51e02c029a83cdd51ef9d0bd41d18e6b5c3ee1f21746cb257d369c1c21ea",
       "size": 215,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -7464,7 +7471,7 @@
       "path": "config/apple_seed_foods/createfood_rice_pudding_bowl.json",
       "sha256": "f643fd455c7d8df571e74d030e1270c2e8cffcca12e5d2b8ce687e8c6d0a2eec",
       "size": 209,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -7499,7 +7506,7 @@
       "path": "config/apple_seed_foods/createfood_sausage_biscuit_cheese_fried_egg.json",
       "sha256": "5252a15fe654b753a58ef8903f7106e14c77070a202823b0aeef26c7394be2e0",
       "size": 220,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -7576,7 +7583,7 @@
       "path": "config/apple_seed_foods/createfood_sausage_biscuit_sandwich.json",
       "sha256": "b51ee5cdfcec48c7f5c89330524813ceaa6e201d4f4e17851cccc14490f962d5",
       "size": 212,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -7625,7 +7632,7 @@
       "path": "config/apple_seed_foods/createfood_sausage_patty.json",
       "sha256": "71a9c87ff8f1af2590b78ccba9df0565a4ed374ed71f380301ee6fcb79995ae6",
       "size": 181,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -7639,7 +7646,7 @@
       "path": "config/apple_seed_foods/createfood_sausage_roll_cheese.json",
       "sha256": "1d7c2811536f98d48ff5b29dba0499fd4f727556b6b273617717a0bfe32c7327",
       "size": 211,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -7667,7 +7674,7 @@
       "path": "config/apple_seed_foods/createfood_scone_berry_jam.json",
       "sha256": "d898b335d5684a4b5372ab787db81969d030fc03a856b7164392738a8948d2d0",
       "size": 226,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -7688,7 +7695,7 @@
       "path": "config/apple_seed_foods/createfood_scone_melon_jam.json",
       "sha256": "3ae9814f49041ade0c1cb6a9dd91d5db2fd745024f3d2c21cabdfa1afec66f8c",
       "size": 225,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -7723,14 +7730,14 @@
       "path": "config/apple_seed_foods/createfood_scrambled_eggs_plate_mushroom.json",
       "sha256": "b9e4ba85b18583f28861d20849eadad39c8826d8876cad1ca1f83a2104527a1b",
       "size": 245,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_scrambled_eggs_plate_onion.json",
       "sha256": "74ce8e26e4e1020d58c379767d40c114df3f6676991868b9f5dbf33f0430950e",
       "size": 218,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -7765,7 +7772,7 @@
       "path": "config/apple_seed_foods/createfood_sliced_brown_mushroom_salt.json",
       "sha256": "bebeeba960430c78699aaef310b02490f04ae8ea8e9705fbe0b0fb0a7b41f0cc",
       "size": 243,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -7814,7 +7821,7 @@
       "path": "config/apple_seed_foods/createfood_sliced_red_mushroom_salt.json",
       "sha256": "ae0107ca65c984da5d936191cfa91ee9645c3aa735b4902c4d0eb1a3885bfedc",
       "size": 241,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -7926,7 +7933,7 @@
       "path": "config/apple_seed_foods/createfood_sweet_roll_base.json",
       "sha256": "e2f910d04e9219cd6ac57d0cf9ff2f62d61a6d959a8c5bff180cad394a552ab3",
       "size": 205,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -7982,7 +7989,7 @@
       "path": "config/apple_seed_foods/createfood_toffee_berries.json",
       "sha256": "4a6e719ba95b2b5db3f178f4134de4da0ab005fd024852b5037774d24cd666cc",
       "size": 181,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -8017,7 +8024,7 @@
       "path": "config/apple_seed_foods/createfood_toffee_chip_milkshake_bottle.json",
       "sha256": "6a56f576d467fa974b9cbc71467485ce149a8dbb7a16674daefc5d0205d90725",
       "size": 220,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -8031,7 +8038,7 @@
       "path": "config/apple_seed_foods/createfood_toffee_chip_muffin.json",
       "sha256": "7e36ce8f28221456c8990c5acbc2881d19c5cbe91b78fe13a07c8bd8028ece9c",
       "size": 186,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -8059,7 +8066,7 @@
       "path": "config/apple_seed_foods/createfood_toffee_dark_chocolate.json",
       "sha256": "03969692185fc72fbad82cbb0767f4b6af7f7b6d694ada0448aacd64ac1ab54c",
       "size": 207,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -8101,7 +8108,7 @@
       "path": "config/apple_seed_foods/createfood_toffee_toast.json",
       "sha256": "413ed6fa543aef99135945bf8e5d6fbcdc0dc7c3c488898c947a94be8454b959",
       "size": 200,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -8178,14 +8185,14 @@
       "path": "config/apple_seed_foods/createfood_white_chocolate_berries.json",
       "sha256": "d9c16a1c939555d96ce7f5f90aebd80697df8864ae0eed9df21a7980bf8e2ac0",
       "size": 190,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_white_chocolate_bottle.json",
       "sha256": "1f9e3d453142e2b8342cfd3330fa24d2911c8c73eef1d9d02ec89d0e1e391dec",
       "size": 192,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -8234,7 +8241,7 @@
       "path": "config/apple_seed_foods/createfood_white_chocolate_chip_muffin.json",
       "sha256": "20c23bfb2595e1faf9470d962e085045aebe008ab0d6d30d876ce177c6ad746f",
       "size": 197,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -8248,7 +8255,7 @@
       "path": "config/apple_seed_foods/createfood_white_chocolate_fudge.json",
       "sha256": "b301715036eb92c55817605131491ca04e924bee4d97de058be12d10176d4a85",
       "size": 210,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -8318,21 +8325,21 @@
       "path": "config/apple_seed_foods/createfood_yogurt_bowl_honey.json",
       "sha256": "d04c340c1ee5bd311af21c22be9a56015359b7325b45bdebdcf30f0424061d9c",
       "size": 209,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/createfood_yogurt_bowl.json",
       "sha256": "8ea90e3623f4141248c3cc3ac0b9978db131f9eb18e343035695923b410adc60",
       "size": 203,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/dndesires_chocolate_milkshake.json",
       "sha256": "8a629d3f4078209ee1718cb61337586daa43f7253d8112cadb300b9fa1331425",
       "size": 188,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -8374,7 +8381,7 @@
       "path": "config/apple_seed_foods/ends_delight_assorted_salad.json",
       "sha256": "d7a915f70e3f05e42bfd30d9e12e164dcf7da9e84e9a49ae7076412e11765397",
       "size": 228,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -8402,7 +8409,7 @@
       "path": "config/apple_seed_foods/ends_delight_chorus_flower_tea.json",
       "sha256": "88c3e5e37fa55250474e88726703210e241486830fb40816dd5d7420e23dbd6f",
       "size": 189,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -8458,7 +8465,7 @@
       "path": "config/apple_seed_foods/ends_delight_dragon_breath_soda.json",
       "sha256": "57b3e99e9dcd4c539c9bb7f95bcc5898a7b3c77386372ee581db797f7ded3d01",
       "size": 209,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -8703,7 +8710,7 @@
       "path": "config/apple_seed_foods/farmersdelight_bacon_and_eggs.json",
       "sha256": "af5ac99f7dba9166748c4433871ee5ccae6a4389db287479559c49956aeef25d",
       "size": 210,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -8731,7 +8738,7 @@
       "path": "config/apple_seed_foods/farmersdelight_barbecue_stick.json",
       "sha256": "261abbd20c4d9baa797c2f8b43fb178065978f0789166eb9ddb7e35ca5e6b24c",
       "size": 210,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -8773,7 +8780,7 @@
       "path": "config/apple_seed_foods/farmersdelight_cabbage.json",
       "sha256": "6e33795adaf185922e01fbf14299db36e4d3330f27e5c594cb2d7ba666ca2dae",
       "size": 257,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -8906,14 +8913,14 @@
       "path": "config/apple_seed_foods/farmersdelight_fried_rice.json",
       "sha256": "ca50b59010a8bd46c4d09e2c34e632fcc1029ead23142d151d8159052297b3b7",
       "size": 230,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/farmersdelight_fruit_salad.json",
       "sha256": "5de812200f871234c92bc1a4065aa28082f6feac59d6e8a368d9a3ba66a01f01",
       "size": 253,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -8927,7 +8934,7 @@
       "path": "config/apple_seed_foods/farmersdelight_grilled_salmon.json",
       "sha256": "7d40a1b745206836a3ab86f4721049e5bd1b7c9d30077de472d7bc3836beb8cc",
       "size": 231,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -8941,7 +8948,7 @@
       "path": "config/apple_seed_foods/farmersdelight_honey_cookie.json",
       "sha256": "e596d930da1faaa3797823156f1d83726f9658431c70e564dc129055931134bc",
       "size": 206,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -9011,7 +9018,7 @@
       "path": "config/apple_seed_foods/farmersdelight_noodle_soup.json",
       "sha256": "040ad68f80799b73a813cb9cc248c2d25067318209c76f375d7e06ef7d6b24b0",
       "size": 251,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -9025,7 +9032,7 @@
       "path": "config/apple_seed_foods/farmersdelight_onion.json",
       "sha256": "d0bf6f937ee6c4523ab514e50e41e807d158c08e1e9e0267b87a524600a04d2d",
       "size": 255,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -9074,7 +9081,7 @@
       "path": "config/apple_seed_foods/farmersdelight_ratatouille.json",
       "sha256": "1c98aa7ad3a5aa9fd5f5626e73cc5d9f2d2d4a0af1ff3bf461ddc2de86a81c51",
       "size": 231,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -9158,7 +9165,7 @@
       "path": "config/apple_seed_foods/farmersdelight_tomato.json",
       "sha256": "8dbdcfb51db18e23550e5989c6e8da8bafe4d58bacb5beb50b7dc4f70bb3f3f4",
       "size": 256,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -9263,7 +9270,7 @@
       "path": "config/apple_seed_foods/jadensnetherexpansiondelight_glowcheese_slice.json",
       "sha256": "a71587a86162689c248800932e2a935a148ac97f8ef451ccd91505379d45703d",
       "size": 204,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -9312,7 +9319,7 @@
       "path": "config/apple_seed_foods/jadensnetherexpansiondelight_nether_hamburger.json",
       "sha256": "7ce0a7ebec74bbf6422d8df1dc4ff1b0360f2de9dd6603039b6a188915c6cb81",
       "size": 224,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -9515,7 +9522,7 @@
       "path": "config/apple_seed_foods/minecolonies_cooked_rice.json",
       "sha256": "2476f46a24c2287cf7a649ed946bc0b600712021f0c3db2174efa9ae28a486ce",
       "size": 205,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -9564,7 +9571,7 @@
       "path": "config/apple_seed_foods/minecolonies_kimchi.json",
       "sha256": "57c6ff7cb0ab52f5d813820a10e1265a4cd5de2e79c6106c405d90da6d90a2bb",
       "size": 224,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -9578,14 +9585,14 @@
       "path": "config/apple_seed_foods/minecolonies_meat_ravioli.json",
       "sha256": "a59831b5e55baf9d4fed362ce8eeb878de61ae55c3ad9909d0cb1bd8508dae81",
       "size": 182,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/minecolonies_mint_jelly.json",
       "sha256": "34a8ed3227ba1d8033f4db13994ee82c79f88e50f5a6b532dde75af8aab113d9",
       "size": 202,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -9641,7 +9648,7 @@
       "path": "config/apple_seed_foods/minecolonies_pierogi.json",
       "sha256": "b123ff1c46accec57f06b64bcb0d6fd9d4da36bb98eb8c5261be2948cf3945ee",
       "size": 179,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -9676,7 +9683,7 @@
       "path": "config/apple_seed_foods/minecolonies_rice_ball.json",
       "sha256": "d235b12920968f009994113101b15fda357aae3d0538767312e1337963b49e3a",
       "size": 226,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -9816,7 +9823,7 @@
       "path": "config/apple_seed_foods/mynethersdelight_breakfast_sampler.json",
       "sha256": "8f35747d13ee4109d9e4938937d3b4c7fa9fcdea20b55d708bbcd0c66026b4f9",
       "size": 235,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -9886,7 +9893,7 @@
       "path": "config/apple_seed_foods/mynethersdelight_fries_ghasta.json",
       "sha256": "2cf21b3f1aceece8215452899594ac54388e7896324ae237b25797108e4b8f07",
       "size": 184,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -9900,7 +9907,7 @@
       "path": "config/apple_seed_foods/mynethersdelight_ghast_salad.json",
       "sha256": "747463745078a27dda946bc0f9d63e0b9ebd9d80faba81c0178ed534c8d29783",
       "size": 233,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -10040,7 +10047,7 @@
       "path": "config/apple_seed_foods/mynethersdelight_sizzling_pudding.json",
       "sha256": "56fd06ad1dc1dfc6d2eff2484667ff69e164372244e19f0fb4f43e3530c47901",
       "size": 214,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -10124,14 +10131,14 @@
       "path": "config/apple_seed_foods/mynethersdelight_toasts.json",
       "sha256": "4e828fa8de4b0c7588706e396fad07789ba4bba0cfb11b051b59e6b4264ad614",
       "size": 179,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/mynethersdelight_twisted_ghasta.json",
       "sha256": "a9b32a258a5b3926f7fd2de50ffa7a8eefad3b984fb3e722adae614c8be404d5",
       "size": 212,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -10159,7 +10166,7 @@
       "path": "config/apple_seed_foods/netherexp_wraithing_flesh.json",
       "sha256": "bdae9bc992c9eccb53eb0739ae54f6493a98f0fbeee9bd5d7b40b43e2ad94ced",
       "size": 183,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -10243,7 +10250,7 @@
       "path": "config/apple_seed_foods/nomansdelight_lavender_tea.json",
       "sha256": "bacb8777545df34c220fabf4525fbbf19fd4b6f1ae6c41b4852ac5d8dbf14527",
       "size": 181,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -10313,7 +10320,7 @@
       "path": "config/apple_seed_foods/nomansland_cooked_frog_leg.json",
       "sha256": "49975fea2aa84ff9468cb8edbb8a694f4a22e244c1fb79828e427d4865c66fa5",
       "size": 261,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -10362,14 +10369,14 @@
       "path": "config/apple_seed_foods/nomansland_mashed_potatoes_with_mushrooms.json",
       "sha256": "4e83861b112a4108037d2027a860d14a7f0ec2950b4c878441700830372d7d7f",
       "size": 266,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/nomansland_pancake.json",
       "sha256": "dbc66ad316042044539da6b01655fae2ea4b5a21a10c6c561ae87c117c7d8c16",
       "size": 198,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -10397,7 +10404,7 @@
       "path": "config/apple_seed_foods/nomansland_pear.json",
       "sha256": "28293a6235424ec29c5cb283dbc05d7196ddc52681982974e5bba80da1daa027",
       "size": 250,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -10481,7 +10488,7 @@
       "path": "config/apple_seed_foods/starcatcher_delight_fish_and_chips_common.json",
       "sha256": "41583a8a228da7d70b8c51bf62c86712c7ddaf001b4857a183469aa340161575",
       "size": 222,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -10551,14 +10558,14 @@
       "path": "config/apple_seed_foods/starcatcher_delight_fish_salad_uncommon.json",
       "sha256": "c71a43e8bbf4f1517a6c4c698a8f0f54cdb869fbf239e8f13abac868480b4ced",
       "size": 196,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
       "path": "config/apple_seed_foods/starcatcher_delight_fish_salad.json",
       "sha256": "91ab05a9aef9f1288ee3655d44e4d460a2f54954de149a8b328d762cb800b01b",
       "size": 265,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -10677,7 +10684,7 @@
       "path": "config/apple_seed_foods/starcatcher_delight_sludge_stew.json",
       "sha256": "8312802b935d1c50f870abb8fd91ce8d60ba871efccc24ab971d6519fcda6328",
       "size": 189,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -10705,7 +10712,7 @@
       "path": "config/apple_seed_foods/starcatcher_delight_starcaught_fillet_legendary.json",
       "sha256": "3fa10d67e0457e3186caef600aa00c57166a61a9bd474c93868a36a5e75819f9",
       "size": 282,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -10796,7 +10803,7 @@
       "path": "config/apple_seed_foods/starcatcher_delight_uramaki_epic.json",
       "sha256": "029bf001cf832de8e1f45a974744150ecadad5c46cf59d30f17ee44a8d3d5943",
       "size": 193,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -10929,7 +10936,7 @@
       "path": "config/apple_seed_foods/vinery_taiga_grapes_red.json",
       "sha256": "c0620cd96e735544a20406bb90d1f1b862866b8f2608f78092adab6b91e4694e",
       "size": 258,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -10943,7 +10950,7 @@
       "path": "config/apple_seed_foods/vinery_white_grape.json",
       "sha256": "6c2e446c5e902d24afc3162370edede5fcf0035b057f951f867fe14905247fa1",
       "size": 253,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -10971,7 +10978,7 @@
       "path": "config/azimuth-client.toml",
       "sha256": "c74cfa25fddf439d78dc58eee2c453a2dd66b2b5b80e67124f7eaad5ae7f6191",
       "size": 145,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -10985,7 +10992,7 @@
       "path": "config/badoptimizations.txt",
       "sha256": "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9",
       "size": 3458,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -11342,7 +11349,7 @@
       "path": "config/create_connected-common.toml",
       "sha256": "0c352f9d7c4bcf09d676222a1cd1cba8689b0dd1ca0847ff90427bae620a5ec6",
       "size": 1753,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -11461,7 +11468,7 @@
       "path": "config/createdieselgenerators-server.toml",
       "sha256": "3ff7bfbdf8353dffba0809215ab4812f63443843128b3d40ae6b377aeda94855",
       "size": 1540,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -11524,7 +11531,7 @@
       "path": "config/creativecore.json",
       "sha256": "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef",
       "size": 274,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -11538,7 +11545,7 @@
       "path": "config/cumulus_menus-client.toml",
       "sha256": "5e018957cbb45da930ee7d364f4b76d4580ac99c14f215a933bbc46306b26c57",
       "size": 745,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -11608,7 +11615,7 @@
       "path": "config/dsurround/dsurround.json",
       "sha256": "d46ae62f4e77deb19e5b1d79e739ee1c2495f836496c71ea1627b37bd922d179",
       "size": 1925,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -11650,7 +11657,7 @@
       "path": "config/eidolon_repraised/create_water.toml",
       "sha256": "8aa53f18bc36a7cefd6d078aeea8c3e3bb2e7f6605b17839640c8c2b4b1aaf36",
       "size": 160,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -11678,7 +11685,7 @@
       "path": "config/eidolon_repraised/dark_touch.toml",
       "sha256": "20668fbb6b8c00d0b347d1552a6df1f7dca88a5b1b2bbfb05e3c2f1fa9c50d46",
       "size": 160,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -11755,7 +11762,7 @@
       "path": "config/eidolon_repraised/smite_chant.toml",
       "sha256": "20ccc4b9372fedcd2e029de76b37e3c088230ecb054eb482318b3494abcdbfd7",
       "size": 264,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -11965,14 +11972,14 @@
       "path": "config/explosiveenhancement.toml",
       "sha256": "2fede1a2083a3b775691cd6f6cbc4252436b8b331f7d78704d2ee6c3e7ca9a16",
       "size": 1743,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
       "path": "config/exposure_polaroid-client.toml",
       "sha256": "a5b310842f230d58680375561bfaf43db571ce0c6f2a5e5ad5559f7bb51433b6",
       "size": 591,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -11986,14 +11993,14 @@
       "path": "config/exposure_space.json",
       "sha256": "7149ffca860c3b06d65e30f361abcd2a89b2cb0a8e2ea20b297d0d1e4a8862f6",
       "size": 184,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
       "path": "config/exposure_space/objects/example_comet.json.txt",
       "sha256": "b8dc90216465ad7b452d7ab439668df6cbc270452b937e13fe3ba7db01d64152",
       "size": 457,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -12091,7 +12098,7 @@
       "path": "config/ferritecore-mixin.toml",
       "sha256": "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78",
       "size": 1603,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -12154,7 +12161,7 @@
       "path": "config/fzzy_config/search.toml",
       "sha256": "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19",
       "size": 510,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -12222,9 +12229,9 @@
     },
     {
       "path": "config/iris.properties",
-      "sha256": "3612bf511eb04430303cbc8d8d6264438e88d6cd6e30ccb54f8c054b9c28f3c8",
+      "sha256": "29378fc2bf13ae9b457ad78bf89c3c2a507f268ec99c7b43b4fb741e81a6a0b1",
       "size": 327,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "seed"
     },
     {
@@ -12343,7 +12350,7 @@
       "path": "config/jei/world/local/Тест/lookupHistory.json",
       "sha256": "f8de264d80d6a79919f9ffe2e4f82813af045d28ea1bd988087a0c4876cb622e",
       "size": 343,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -12355,9 +12362,9 @@
     },
     {
       "path": "config/jei/world/server/Tech Adventure (45_152_160_143 25598)/lookupHistory.json",
-      "sha256": "ff3327828087eda3baffebd378d183db92a597d8000a4ed6b9bbbc3754e4f7c8",
-      "size": 10297,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "sha256": "c76d79d0d0493716a71e254db490dc0bd0151d4b66ad11256e49963b7a9fc281",
+      "size": 10296,
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -12420,7 +12427,7 @@
       "path": "config/Luminous Monsters Configuration.toml",
       "sha256": "8d70c9e0cea4da7c0da8b387a09b5f47c6ca950337ca0b047a27a904e3dee2bc",
       "size": 626,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -12476,7 +12483,7 @@
       "path": "config/malum-common.toml",
       "sha256": "f78da01f7483cc27817cfa5d4124ea59d9ecc91c65a53f21d6750c05f333d2b8",
       "size": 1881,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -12497,7 +12504,7 @@
       "path": "config/minecolonies-client-1.toml.bak",
       "sha256": "a08b7311d200f0c4576c774d3ce2573c9c28df2faa959b5428bcdf074a228964",
       "size": 1271,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -12574,7 +12581,7 @@
       "path": "config/mysterious_mountain_lib-common.toml",
       "sha256": "918b1446884bdbd6493e413580f5e7ccd1b89e3adefa62d8fe58eb902c136c27",
       "size": 88,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -12616,7 +12623,7 @@
       "path": "config/netherexp-startup.toml",
       "sha256": "541e76d2ec6ba49146e3e815fd7ed7a0f9f2607d287e5f0adcbcfa5fc2a5d543",
       "size": 634,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -12651,7 +12658,7 @@
       "path": "config/notenoughanimations.json",
       "sha256": "8d1920949a918031b7715b870f92f5a01b227aab08c65355545efddabb5d0af9",
       "size": 3352,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -12707,7 +12714,7 @@
       "path": "config/nourished/auto_compat/betterend.json",
       "sha256": "a1a91f6184ad57e423940135763c0d22ec63c8a8224004ee2c1bd70388f0aa8e",
       "size": 158,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -12777,7 +12784,7 @@
       "path": "config/nourished/auto_compat/ends_delight.json",
       "sha256": "8e4ad4d7fea87ed1777941850608659ad9dac25ac393510504c5c379243eef8a",
       "size": 161,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -12896,7 +12903,7 @@
       "path": "config/nourished/colors.json",
       "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "size": 2,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -13015,7 +13022,7 @@
       "path": "config/oreganized-client.toml",
       "sha256": "72f3ebcca5cb9a33ae123e096c431dac08ce8a76ca2912ae76cadeb37093e2fd",
       "size": 123,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -13026,10 +13033,24 @@
       "policy": "managed"
     },
     {
+      "path": "config/particle_core_config.toml",
+      "sha256": "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634",
+      "size": 306,
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
+      "policy": "managed"
+    },
+    {
+      "path": "config/particle_core_disabled_optimizations_v2.json",
+      "sha256": "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d",
+      "size": 1558,
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
+      "policy": "managed"
+    },
+    {
       "path": "config/particular-common.toml",
       "sha256": "683ff3df19e031d701a51f59aeb56a0be74f40bdce4f6c0a7ab48914e0f56e37",
       "size": 5842,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -13057,7 +13078,7 @@
       "path": "config/ponder-client.toml",
       "sha256": "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba",
       "size": 635,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -13113,14 +13134,14 @@
       "path": "config/punchy/punchy_config.json",
       "sha256": "17a92f95df274eb76912822d0943214e6a6ca3e3b7f00fefd4ea0dda6bbc538c",
       "size": 1582,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
       "path": "config/quark-common.toml",
       "sha256": "a8ec25bfe59ec805ed7d4f61724034eb8ca90fc814d0745b376096b54f01e3e7",
       "size": 84659,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -13258,9 +13279,9 @@
     },
     {
       "path": "config/screenshot_viewer-client.toml",
-      "sha256": "c2d56be1bf282229880935d627ab56e9376e9411ee3892c0441941f19a3369a0",
-      "size": 3094,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "sha256": "137d8a8d83035ffe8b39892da6996e7d66044f78e96a86415c7cb05c08ebbe40",
+      "size": 3072,
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -13288,7 +13309,7 @@
       "path": "config/servercore/optimizations.yml",
       "sha256": "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192",
       "size": 1392,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -13365,7 +13386,7 @@
       "path": "config/sodium-options.json",
       "sha256": "84d6055495d723b2b81811c879aa4141b5f5af7e2e9c2ecd27e788ea45e7d2f7",
       "size": 766,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "seed"
     },
     {
@@ -13394,6 +13415,13 @@
       "sha256": "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d",
       "size": 5104,
       "packageId": "zip-8ceeed22b6f8bd287485e490f298d97bf35c72a9e2866d70b89a641f0d1c09a9",
+      "policy": "managed"
+    },
+    {
+      "path": "config/spark/activity.json",
+      "sha256": "82c3c186dfe2f912ab75821354e9c65d4590d97ddebb46af2e725ce729025c7c",
+      "size": 848,
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -13456,7 +13484,7 @@
       "path": "config/structurize-server.toml",
       "sha256": "a0cd1a9ada420ac6d77bd5adda19d40e8cec9e3e5d82389247c463928c6e152b",
       "size": 1983,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -13510,9 +13538,9 @@
     },
     {
       "path": "config/sv-voice-changer/presets/autosave.properties",
-      "sha256": "90ade360a381a95a09caa2abf62bb7503f812cb42f1c618741b038890dfb9d8f",
+      "sha256": "67938814e9bd59bf472dd10fa93013b4bdf91de0f8d58b1a0332f5ac05843a3e",
       "size": 455,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -13589,7 +13617,7 @@
       "path": "config/treechop-common.toml",
       "sha256": "1ab671e18fba6c422ea0e103914e0d912b25ea4e13341c3d88e292bb5d459498",
       "size": 9496,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -13638,7 +13666,7 @@
       "path": "config/twilightforest-client.toml",
       "sha256": "ea444ad32634a205d0618e864a04d85edcd393dc8083d59c053d738bc48b537c",
       "size": 2997,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -13708,7 +13736,7 @@
       "path": "config/voicechat/category-volumes.properties",
       "sha256": "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56",
       "size": 46,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -13734,9 +13762,9 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "sha256": "a1b1d4ed0758f215948ad2b55d712764161f20fb0399794637719a890fd0f30d",
-      "size": 5062,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "sha256": "70e7729895fe33bf4f6ac96e46fb1d24c5dfcf52c5dac5fba998b25c6acbc13d",
+      "size": 5063,
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -13806,7 +13834,7 @@
       "path": "config/waila/waila_plugins.json5",
       "sha256": "0197ef20cd569ca518932bec6afbe1f4a5b7abbc3708bf41e944bdb744857e98",
       "size": 20168,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -13820,7 +13848,7 @@
       "path": "config/wakes-client.toml",
       "sha256": "3ab0f121e74ed9c09c47867c335752f0e801f550e3e24591f30724daf35e0015",
       "size": 2724,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -13841,7 +13869,7 @@
       "path": "config/wover/cached.json",
       "sha256": "32bdd412ab6d7b6095793ff12d5b7bec9227063c67d5888972b8f384cc01e59d",
       "size": 138,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -13869,14 +13897,14 @@
       "path": "config/zeta-common.toml",
       "sha256": "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d",
       "size": 1908,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
       "path": "CustomSkinLoader/Core/CustomSkinLoader-Common.jar",
-      "sha256": "2242cb9e129a45c902ccc5071c60e4064a97567671080500e301658f944deba7",
+      "sha256": "197c8ea31761baa3c9e619dc42176b53ff41bd88103c657cef7ed5673541a6b0",
       "size": 122701,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -13974,14 +14002,14 @@
       "path": "mods/amplified-nether-height-1.2+datapack.jar",
       "sha256": "24c13a390a6f9148d642dfdaa73ee83d28f48e6bf344345d69a7f2521832a5a3",
       "size": 5004,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
       "path": "mods/Andrey-Modpack-Fixes-1.0.10-performance.18.jar",
       "sha256": "b446c61f1c89c50051b20c43bb6786562ff042b7f61f2838fbcb5f4620aa7f55",
       "size": 52692,
-      "packageId": "zip-105f5338945747d90eeb74eb3f89edfce61b2b80b9f7a659355d524847d42266",
+      "packageId": "zip-f9a368f2365ed7bc82b4636735224f915ca2cea98a9f1f9480ef349fe040b363",
       "policy": "managed"
     },
     {
@@ -14065,7 +14093,7 @@
       "path": "mods/balm-neoforge-1.21.1-21.0.60.jar",
       "sha256": "a6d2779da5ceecb35f852b66ab9f6d52b2b847d803c66c3de0cff67a935e5057",
       "size": 744121,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -14156,7 +14184,7 @@
       "path": "mods/blockui-1.0.211-1.21.1-snapshot.jar",
       "sha256": "5dfffc80c057b4d36123bd5f5cad9f32f86896a9dd993ea4a3ecad315cabd77e",
       "size": 468147,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -14177,7 +14205,7 @@
       "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "sha256": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
       "size": 328813,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -14205,7 +14233,7 @@
       "path": "mods/caravans-neoforge-1.21.1-3.0.0.jar",
       "sha256": "b1c127de599c7c3a2ce348de2842adc3f5537baccf88e3a8bd16fc85bd324050",
       "size": 325260,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -14268,14 +14296,14 @@
       "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
       "size": 18382,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
       "path": "mods/cmparallelpipes-neoforge-2.0.2.jar",
       "sha256": "061d4641de2918c9fd19650fe7efc6bd51b122ce08febdebecb4097d91839819",
       "size": 28886,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -14373,7 +14401,7 @@
       "path": "mods/create-central-kitchen-2.5.0.jar",
       "sha256": "ef581fb9e62ffda6bf5e1c6854847f5e53fe7dd43adb4c1a318426481468afec",
       "size": 375492,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -14384,17 +14412,17 @@
       "policy": "managed"
     },
     {
-      "path": "mods/create-new-age-nuclear-radiation-compat-1.0.36-neoforge-1.21.1.jar",
-      "sha256": "d88d0b224ca64600468cf593064acacf31b30918faf85d9603910103b40a6b79",
-      "size": 108212,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "path": "mods/create-new-age-nuclear-radiation-compat-1.0.36-eidolon-compat-neoforge-1.21.1.jar",
+      "sha256": "637630cb5757443cf67227b8b71091af0101aadebe9b1087048ed038ebe08df1",
+      "size": 113469,
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
       "path": "mods/create-stuff-additions1.21.1_v2.1.4a-shadowdrop-fixed.jar",
       "sha256": "55462c412409a088071a9c073d4d75737a041b2971ce7988832d1c4c105f2bfa",
       "size": 1360039,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
@@ -14436,7 +14464,7 @@
       "path": "mods/createfurnitureseats-4.8.17.jar",
       "sha256": "2226158891d5cdb85591b7d064fef9719a3ce81759f9e67b74e362e2452f5033",
       "size": 59208,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -14527,7 +14555,7 @@
       "path": "mods/disable-dimensions-0.8.0+mod.jar",
       "sha256": "0fd68a1ae7097e96c9ae643fd232152124f3cd9248eb7e0024291d9798ee715e",
       "size": 242659,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -14548,7 +14576,7 @@
       "path": "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.jar",
       "sha256": "b5d831c16a54ffefa4022f2d56f174a8508e334cfb3b31f91b318deaa9f8c180",
       "size": 58457,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -14562,7 +14590,7 @@
       "path": "mods/easybuilding-neoforge-1.21.1-v1.1.jar",
       "sha256": "114f11b345b401240b01333ac92938bdeb04423d4bdb60e3333874ad173d0f3a",
       "size": 21215,
-      "packageId": "zip-c7216656cf40ac2761f7e6e4b7ae09a75fe9ea73da38c328039e6a3206258084",
+      "packageId": "zip-6104eb2c0a5e0aee82d626ae00cd8b90967931e5ce5a81e356aee4c90c82f6de",
       "policy": "managed"
     },
     {
@@ -14646,7 +14674,7 @@
       "path": "mods/EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
       "sha256": "b25b8544cdedeff991ffa42f8d983e32462beefc69e984d4bec54a0975d9b21c",
       "size": 35691,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -14744,7 +14772,7 @@
       "path": "mods/fishingreal-neoforge-1.21.1-1.9.1.jar",
       "sha256": "7e82506f23b48a011ddb5df81fb62c6343cf344c29622ddf0108c206aa06fd43",
       "size": 19450,
-      "packageId": "zip-c256b90fc2064e5580dd41b89a0b9b2dcbf38c0d652fb8dda35356b8cbba3000",
+      "packageId": "zip-04b91a9b0416551f9f1f766357d2db09730b3ed036fc956af2c42adb0aac7766",
       "policy": "managed"
     },
     {
@@ -14814,7 +14842,7 @@
       "path": "mods/global-spectator-vc-neoforge-1.21.1-1.0.1.jar",
       "sha256": "66cc13c1d7bb601f9e643bc1ddf8d079a4e2048241639aef6b673d61c5acf3b0",
       "size": 50328,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -14877,7 +14905,7 @@
       "path": "mods/interiors-1.21.1-neoforge-0.6.1.jar",
       "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
       "size": 486912,
-      "packageId": "zip-66f5d0dfa71da9dcb7505b7546687f39937f4bd9f54f9374a2642af9fcf3ecb5",
+      "packageId": "zip-4ee3ff77513309f33dad857333c5062714f8798a4d1360db223835fb934fb070",
       "policy": "managed"
     },
     {
@@ -15045,7 +15073,7 @@
       "path": "mods/lionfishapi-3.1.jar",
       "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6",
       "size": 91596,
-      "packageId": "zip-b897edfa4c7b5963b5e4e94a4f6b24724474a526ae6282ddf145dd8e3387fd33",
+      "packageId": "zip-6d8bdec005127353e24901dae3c57ea83f4ffa146d895ce3963e3434edea2145",
       "policy": "managed"
     },
     {
@@ -15108,7 +15136,7 @@
       "path": "mods/Material-Wear-NeoForge-1.21.1-1.0.0-alpha.65.jar",
       "sha256": "c2770da49e4b3de090bd3165ec9c515909eae9e808f8ccda9f13efc0259ba08c",
       "size": 626419,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -15143,7 +15171,7 @@
       "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
       "size": 73938,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -15220,7 +15248,7 @@
       "path": "mods/outer_end_wilds-2.0-neoforge-1.21.1.jar",
       "sha256": "27966b40560150f041776146c3e60a59fbe00fc066e7b69a8ae9399687ee54b9",
       "size": 1517044,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -15234,7 +15262,7 @@
       "path": "mods/particle_core-0.3.3+1.21+neoforge.jar",
       "sha256": "38c05981d1dc8428c7ab1130b9ec7f05bca1b70f909aba9c454c9611702a8dda",
       "size": 138375,
-      "packageId": "zip-7e84211b9208ed5ac03e15f5e737f99774cb854f8e657b831bfa22bbe92a5c8b",
+      "packageId": "zip-4697b0d0f5d24f3f05a316eff179915cb83702161f4dbf8aa52a6989b427bef8",
       "policy": "managed"
     },
     {
@@ -15423,7 +15451,7 @@
       "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "sha256": "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea",
       "size": 202454,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -15535,14 +15563,14 @@
       "path": "mods/tramplenomore-neoforge-1.21.1-21.1.2.jar",
       "sha256": "f53d390067edd982c340fb6cbead956d85b13e228af3c0bdf712266bfbed7e53",
       "size": 18001,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
       "path": "mods/TreeChop-1.21.1-neoforge-0.19.3.jar",
       "sha256": "9c05bf37e537d91ea4c6e0924fe2ad9792c2286b01d68c44bf9b2e7aa520bfb9",
       "size": 517790,
-      "packageId": "zip-d12374c60c639815762a587af96f99f72c17148458dd1d384e8a8706775fb024",
+      "packageId": "zip-3cf9d2f625fc6e31428243b92e3036301bb5d41925570b0774961f67f06b71ca",
       "policy": "managed"
     },
     {
@@ -15696,7 +15724,7 @@
       "path": "resourcepacks/FA+Details-v2.2.1-Restored.zip",
       "sha256": "ab5b5526f0a961cea6d31e456593f0fa16448479ec588630c33f2a42590469e7",
       "size": 289745,
-      "packageId": "zip-22757b1524e2feef207154d5235245fa3be0a570d3a153e1e7c178d2cf782cb2",
+      "packageId": "zip-c5645aab4bbfc708e3239906b04aa8018e0d8620a7837634fb4da5b21cea8dc2",
       "policy": "managed"
     },
     {
@@ -15731,7 +15759,7 @@
       "path": "resourcepacks/Hold Up Lanterns.zip",
       "sha256": "1ecf3d5f22b4692177912e233718b3a72157cafa246278005b52eab91afa702f",
       "size": 8437,
-      "packageId": "zip-81e5b81e1b0adca4ca0461530586ee56cfecd66da532988dde9f954ad6b5f2fa",
+      "packageId": "zip-45e9d9961eb285f562588583a12ee2d460ef7aeddcbe244b11d4c1d189bd5687",
       "policy": "managed"
     },
     {
@@ -15745,7 +15773,7 @@
       "path": "resourcepacks/TrailerPlayerAnimations_v0.6.zip",
       "sha256": "bd702ae042ba70529e56b48c665a3599bf89faa0b6252957ef8e43cea3173539",
       "size": 98636,
-      "packageId": "zip-5e4f5afd5b2b341af640ff946d31a62b3bbf921bbe4319603036046dc1694624",
+      "packageId": "zip-610ddaf011bf7eefe532bb2f4c56ddf91e2faa057f89042e922f459674262400",
       "policy": "managed"
     },
     {
